@@ -1,0 +1,44 @@
+{ "height":8,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 64, 0, 0, 0, 0, 64, 64, 64, 64, 64, 64, 64, 64, 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 64, 0, 0, 0, 0],
+         "height":8,
+         "name":"Weg",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[6, 6, 6, 0, 6, 6, 6, 6, 6, 6, 6, 0, 6, 6, 6, 6, 6, 6, 6, 0, 6, 6, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 0, 6, 6, 6, 6, 6, 6, 6, 0, 6, 6, 6, 6, 6, 6, 6, 0, 6, 6, 6, 6, 6, 6, 6, 0, 6, 6, 6, 6],
+         "height":8,
+         "name":"Gras",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.1.5",
+ "tileheight":64,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/Users\/KRMR\/Desktop\/roguelikeSheet_transparent_64x64.tsx"
+        }, 
+        {
+         "firstgid":1768,
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/Users\/KRMR\/Desktop\/Overworld_64.tsx"
+        }],
+ "tilewidth":64,
+ "type":"map",
+ "version":1,
+ "width":8
+}
