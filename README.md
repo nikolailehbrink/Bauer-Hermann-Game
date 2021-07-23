@@ -8,6 +8,10 @@ A game based on Phaser v2.6.2, in which the player plays "Bauer Hermann", who is
 
 The game was programmed in the second semester of the Media Informatics Bachelor at the University of Applied Sciences Bremen. In the game, the user can complete small mini-games and walk around "Bauer Hermann's" farm.
 
-> Das Spiel muss auf einem Server gestartet werden, z. B. über den Live-Server von VS Code.
+> The game must be started on a server, for example, via the live server extension for VS Code or XAMP.
+
+
+
+
 
 
